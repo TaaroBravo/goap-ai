@@ -148,4 +148,3 @@ All design, planning, and debugging were performed manually using traditional AI
 **Lautaro Bravo de la Serna**  
 [lautarobravo.com](https://lautarobravo.com)  
 [@TaaroBravo](https://github.com/TaaroBravo)
-```

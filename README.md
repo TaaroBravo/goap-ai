@@ -136,14 +136,14 @@ You are free to use, modify, and distribute it for educational or research purpo
 
 ---
 
-## 🧑‍🎓 Notes
+## Notes
 
 This project was created before the widespread use of large language models such as ChatGPT.  
 All design, planning, and debugging were performed manually using traditional AI and gameplay programming techniques.
 
 ---
 
-## 💬 Contact
+## Contact
 
 **Lautaro Bravo de la Serna**  
 [lautarobravo.com](https://lautarobravo.com)  
